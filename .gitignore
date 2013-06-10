@@ -1,5 +1,6 @@
 .project
 .metadata
-.settings/
+.buildpath
 .DS_Store
+.settings/
 cache/
