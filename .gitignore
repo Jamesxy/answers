@@ -1,25 +1,5 @@
-#################
-## Eclipse
-#################
-
-*.pydevproject
 .project
 .metadata
-bin/
-tmp/
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
-.classpath
 .settings/
-.loadpath
-
-# PDT-specific
-.buildpath
-
-# Mac crap
 .DS_Store
-
 cache/
