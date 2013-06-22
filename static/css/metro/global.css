@@ -437,7 +437,7 @@ a.v,em.v{ display:inline-block !important; width:15px !important; height:13px !i
 .qs_txtare .question_txt,.upload_txt{height:30px;line-height:30px;text-indent:5px;}
 .qs_txtare .a_qsAskQuestion > .a_qsClassList{background-color:#fff; margin:0;}
 .qs_txtare  .a_qsSelect{background-color:#fff;}
-.qs_txtare  .a_qsSelect > big,.qs_txtare  .a_qsSelect{ width:378px !important;}
+.qs_txtare .a_qsAskQuestion .a_qsClassList .a_qsSelect > big,.qs_txtare .a_qsAskQuestion .a_qsClassList .a_qsSelect{ width:378px;}
 .qs_txtare input[type="checkbox"]{ margin-top:-2px; margin-right:5px;}
 .qs_txtare .qs_txtClass{ vertical-align:middle;}
 .qs_txtare .privateLetter_user:hover .q_editor{visibility:visible;}

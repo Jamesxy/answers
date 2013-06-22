@@ -8,6 +8,12 @@ $config['master'] = array (
   'host' => 'localhost',
   'username' => 'root',
   'password' => '123456',
-  'dbname' => 'answers',
+  'dbname' => 'answers'
 );
-$config['slave'] = false;
+$config['slave'] = array(
+	'charset' => 'utf8',
+	'host' => 'localhost',
+	'username' => 'root',
+	'password' => '123456',
+	'dbname' => 'test'
+);
